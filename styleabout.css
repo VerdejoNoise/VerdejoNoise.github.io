@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+}
+.main{
+    color: white;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 1rem;
+    height: 80vh;
+    width: 50%;
+    margin-top: 10vh;
+    text-align: center;
+    padding: 10px;
+}
+#lol{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+#lol2{
+    border: 1px solid;
+    border-color: white;
+}
+#lol2 a{
+    font-size: 0.9rem;
+    padding: 15px;
+}
+@media screen and (max-width: 850px){
+    .main{
+        text-align: left;
+        width: 100%;
+    }
+}

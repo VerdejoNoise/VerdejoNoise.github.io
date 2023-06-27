@@ -1,0 +1,191 @@
+body{
+    color: black;
+    font-family: 'Public Sans', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+header, footer{
+    height: 8vh;
+    display: flex;
+}
+header{
+    position: absolute;
+    top: 0;
+    height: 8vh;
+    width: 100vw;
+    z-index: 10;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.master{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#topright, #botomright{
+    display: flex;
+    justify-content: right;
+}
+.fift{
+    width: 50%;
+    padding: 2vw;
+}
+#centro{
+    position: absolute;
+    width: 100vw;
+    font-size: 10vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    height: 8vh;
+    width: 100vw;
+}
+footer #insta{
+    right: 0;
+}
+.boton{
+    padding: 2vh;
+    display: flex;
+    position: sticky;
+    top: 0;
+    justify-content: center;
+    align-items: center;
+}
+#sub, #sub2{
+    transition: 1.0s;
+    font-size: 1rem;
+    user-select: none;
+}
+.masterPost{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#centroPost a{
+    display: flex;
+    position: sticky;
+    top: 30%;
+    justify-content: center;
+    align-items: center;
+}
+#centroPost h1{
+    display: flex;
+    position: sticky;
+    top: 60%;
+    justify-content: center;
+    align-items: center;
+}
+#centroPost h2{
+    display: flex;
+    position: sticky;
+    top: 90%;
+    justify-content: center;
+    align-items: center;
+}
+#texto{
+    transition: 1.0s;
+    font-size: 8rem;
+    user-select: none;
+    border: none;
+    background-color: transparent;
+    
+    
+    transition: 1s;
+}
+#centro button{
+    filter: blur(10px);
+}
+
+#foto{
+    width: 20vw;
+    
+}
+#contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1vw;
+}
+#contenedor a{
+    font-size: 1rem;
+}
+#postFoto{
+    padding: 2vw;
+    width: 16vw;   
+}
+
+svg {
+    width: 100vw;
+    height: 100vh;
+    opacity: 50%;
+    z-index: -1;
+}
+.here{
+    margin-top: 100vh;
+    width: 80vw;
+}
+#postGeneral{
+    display: flex;
+    justify-content: center;
+}
+#topleft, #topright, #contac, #insta{
+    z-index: 10;
+}
+.modal{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    display: none;
+}
+#kj{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50vh;
+    transition: 1s;
+}
+.modal a:hover{
+    transform: scale(1.1);
+}
+#mitad{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    font-size: 2.8rem;
+}
+#mitad a{
+    color: white;
+    transition: 0.5s;
+}
+#texto:hover{
+    transform: scale(1.2);
+    filter: blur(0);
+    transform: scale(1.1);
+}
+@media screen and (max-width: 850px){
+    #texto{
+        font-size: 2rem;
+    }
+    #sub{
+        font-size: 0.8rem;
+    }
+    #foto{
+        width: 90vw;
+    }
+    #postGeneral{
+        margin: 0;
+        padding: 0;
+    }
+    #mitad{
+        font-size: 1.2rem;
+    }
+}

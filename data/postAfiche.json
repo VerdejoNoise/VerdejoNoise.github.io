@@ -1,0 +1,118 @@
+{
+    "afiche": {
+        "1":{
+            "Silent Pursuit":{
+                "img":"https://drive.google.com/uc?export=download&id=1HKoxSDF9L67bU0mTlVaETaakbC-eOop4",
+                "text":"texto",
+                "tipo":0
+            }
+        },
+        "2":{
+            "Haunted":{
+                "img":"https://drive.google.com/uc?export=download&id=1-TGbuW0xS344AKrQfwM8Hcw8IsETAtEg",
+                "text":"texto"
+            }
+        },
+        "3":{
+            "Path Of Revelations":{
+                "img":"https://drive.google.com/uc?export=download&id=1aNb5oKDgt649p6DVEbZKE66rj4lokcVN",
+                "text":"texto"
+            }
+        },
+        "4":{
+            "Bloody Nights":{
+                "img":"https://drive.google.com/uc?export=download&id=1owMzU4XTq2u7VTQAKFYNKWdTHcyJJJ8r",
+                "text":"texto"
+            }
+        },
+        "5":{
+            "Ride Beyond Death":{
+                "img":"https://drive.google.com/uc?export=download&id=1-dTP8_c56dR-xgaYJDJ9SaGoIm_NSr18",
+                "text":"texto"
+            }
+        },
+        "6":{
+            "Glimpse of the void":{
+                "img":"https://drive.google.com/uc?export=download&id=1kHj8aPEXMoWhf2CPKzsefbJ4_zLe00RM",
+                "text":"texto"
+            }
+        },
+        "7":{
+            "Fashion Active":{
+                "img":"https://drive.google.com/uc?export=download&id=11TfRNmcGge_MxGncK5R2fkGKwRrayQO1",
+                "text":"texto"
+            }
+        },
+        "8":{
+            "Digital Ange":{
+                "img":"https://drive.google.com/uc?export=download&id=12N7Qsl9Y3hNGN7G4i139Ql3-rYjtkKUq",
+                "text":"texto"
+            }
+        },
+        "9":{
+            "The Spot":{
+                "img":"https://drive.google.com/uc?export=download&id=12jdeyr7HIJi77Su8z7Cg13A2HSkxhQUk",
+                "text":"texto"
+            }
+        },
+        "10":{
+            "Exmachima":{
+                "img":"https://drive.google.com/uc?export=download&id=1XnAmtvDiVMqQAzPsDC_PwS33T9xYvL8-",
+                "text":"texto"
+            }
+        }
+    },
+    "ilus": {
+        "1":{
+            "Salazzle":{
+                "img":"https://drive.google.com/uc?export=download&id=1Xrny5P-tCkp41V8r_He58XxBQXXFmeXT",
+                "text":"texto",
+                "tipo":0
+            }
+        },
+        "2":{
+            "Cat of the death":{
+                "img":"https://drive.google.com/uc?export=download&id=1zmq0zmvBpHq0xcZx9aYXK0uNF46XOwdV",
+                "text":"texto"
+            }
+        },
+        "3":{
+            "Arcanine":{
+                "img":"https://drive.google.com/uc?export=download&id=1JLTNvpMYvp0bXvMGgXegVNiCqwjKf0wN",
+                "text":"texto"
+            }
+        },
+        "4":{
+            "Robert Pattinson":{
+                "img":"https://drive.google.com/uc?export=download&id=1nET8ERe_Jggib2pn1ZGc7meC6MB9z7xp",
+                "text":"texto"
+            }
+        },
+        "5":{
+            "Hunter X Hunter Gon Freecs":{
+                "img":"https://drive.google.com/uc?export=download&id=1yCCRGaJqdUcNT9WpgvFmpcmKPgTO_1FR",
+                "text":"texto"
+            }
+        },
+        "6":{
+            "Ghost Rider":{
+                "img":"https://drive.google.com/uc?export=download&id=1b6Z_RPKE8CDQ4KKjF3hOEWh39x6fKhvc",
+                "text":"texto"
+            }
+        },
+        "7":{
+            "Naruto Obito Uchiha":{
+                "img":"https://drive.google.com/uc?export=download&id=1TwKOxmvWO-PfKAyR8hCFg2_DCi5trOLC",
+                "text":"texto"
+            }
+        },
+        "8":{
+            "Silver Surfer":{
+                "img":"https://drive.google.com/uc?export=download&id=1H5GRcnlMfq2bRb4Xv9gK_LgAFZlYfH7p",
+                "text":"texto"
+            }
+        }
+    }
+    
+
+}
