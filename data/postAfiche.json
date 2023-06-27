@@ -26,7 +26,7 @@
             }
         },
         "5":{
-            "Ride Beyond Death":{
+            "Unchained Spirit":{
                 "img":"https://drive.google.com/uc?export=download&id=1-dTP8_c56dR-xgaYJDJ9SaGoIm_NSr18",
                 "text":"texto"
             }
@@ -44,7 +44,7 @@
             }
         },
         "8":{
-            "Digital Ange":{
+            "Digital Angels":{
                 "img":"https://drive.google.com/uc?export=download&id=12N7Qsl9Y3hNGN7G4i139Ql3-rYjtkKUq",
                 "text":"texto"
             }
@@ -59,6 +59,11 @@
             "Exmachima":{
                 "img":"https://drive.google.com/uc?export=download&id=1XnAmtvDiVMqQAzPsDC_PwS33T9xYvL8-",
                 "text":"texto"
+            }
+        },
+        "11":{
+            "Ride Beyond Death":{
+                "img":"https://drive.google.com/uc?export=download&id=1_TFHOMKPalgYrBYuyAIOoh6PwrNwfQBg"
             }
         }
     },
@@ -83,13 +88,13 @@
             }
         },
         "4":{
-            "Robert Pattinson":{
+            "The Batman":{
                 "img":"https://drive.google.com/uc?export=download&id=1nET8ERe_Jggib2pn1ZGc7meC6MB9z7xp",
                 "text":"texto"
             }
         },
         "5":{
-            "Hunter X Hunter Gon Freecs":{
+            "Hunter X Hunter Gon":{
                 "img":"https://drive.google.com/uc?export=download&id=1yCCRGaJqdUcNT9WpgvFmpcmKPgTO_1FR",
                 "text":"texto"
             }
@@ -101,7 +106,7 @@
             }
         },
         "7":{
-            "Naruto Obito Uchiha":{
+            "Obito Uchiha":{
                 "img":"https://drive.google.com/uc?export=download&id=1TwKOxmvWO-PfKAyR8hCFg2_DCi5trOLC",
                 "text":"texto"
             }
