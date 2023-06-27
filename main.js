@@ -14,8 +14,8 @@ lol.onreadystatechange = function(){
 function crearPost(datos){
     
     if (seccion == "Poster"){
-        document.title = "Poster";
-        document.getElementById("texto").textContent = "POSTER";
+        document.title = "Afiche";
+        document.getElementById("texto").textContent = "AFICHE";
         let keysPost = Object.keys(datos["afiche"]);
 
         let i = keysPost.length;
